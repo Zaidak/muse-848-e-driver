@@ -1,4 +1,4 @@
-# muse-848-e-driver
+# muse-e-driver
 experimental repo for ubuntu drivers for the bluetooth headset
 
 
